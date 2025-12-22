@@ -1,0 +1,91 @@
+Roll_No,Semester,Subject,Marks,Grade,Result
+101,Sem1,Maths,80,B,Pass
+101,Sem1,Physics,58,C,Pass
+101,Sem1,Chemistry,65,C,Pass
+101,Sem2,BEEE,66,C,Pass
+101,Sem2,Civil,86,A,Pass
+101,Sem2,C language,86,A,Pass
+101,Sem3,DSA,84,B,Pass
+101,Sem3,Python,51,C,Pass
+101,Sem3,Deld,67,C,Pass
+102,Sem1,Maths,69,C,Pass
+102,Sem1,Physics,90,A,Pass
+102,Sem1,Chemistry,73,B,Pass
+102,Sem2,BEEE,71,B,Pass
+102,Sem2,Civil,58,C,Pass
+102,Sem2,C language,52,C,Pass
+102,Sem3,DSA,59,C,Pass
+102,Sem3,Python,90,A,Pass
+102,Sem3,Deld,68,C,Pass
+103,Sem1,Maths,51,C,Pass
+103,Sem1,Physics,50,C,Pass
+103,Sem1,Chemistry,59,C,Pass
+103,Sem2,BEEE,51,C,Pass
+103,Sem2,Civil,87,A,Pass
+103,Sem2,C language,69,C,Pass
+103,Sem3,DSA,78,B,Pass
+103,Sem3,Python,60,C,Pass
+103,Sem3,Deld,51,C,Pass
+104,Sem1,Maths,90,A,Pass
+104,Sem1,Physics,53,C,Pass
+104,Sem1,Chemistry,74,B,Pass
+104,Sem2,BEEE,52,C,Pass
+104,Sem2,Civil,57,C,Pass
+104,Sem2,C language,65,C,Pass
+104,Sem3,DSA,51,C,Pass
+104,Sem3,Python,76,B,Pass
+104,Sem3,Deld,66,C,Pass
+105,Sem1,Maths,51,C,Pass
+105,Sem1,Physics,59,C,Pass
+105,Sem1,Chemistry,59,C,Pass
+105,Sem2,BEEE,69,C,Pass
+105,Sem2,Civil,52,C,Pass
+105,Sem2,C language,71,B,Pass
+105,Sem3,DSA,77,B,Pass
+105,Sem3,Python,53,C,Pass
+105,Sem3,Deld,67,C,Pass
+106,Sem1,Maths,60,C,Pass
+106,Sem1,Physics,67,C,Pass
+106,Sem1,Chemistry,73,B,Pass
+106,Sem2,BEEE,77,B,Pass
+106,Sem2,Civil,57,C,Pass
+106,Sem2,C language,75,B,Pass
+106,Sem3,DSA,58,C,Pass
+106,Sem3,Python,65,C,Pass
+106,Sem3,Deld,83,B,Pass
+107,Sem1,Maths,86,A,Pass
+107,Sem1,Physics,75,B,Pass
+107,Sem1,Chemistry,61,C,Pass
+107,Sem2,BEEE,58,C,Pass
+107,Sem2,Civil,88,A,Pass
+107,Sem2,C language,59,C,Pass
+107,Sem3,DSA,69,C,Pass
+107,Sem3,Python,57,C,Pass
+107,Sem3,Deld,50,C,Pass
+108,Sem1,Maths,51,C,Pass
+108,Sem1,Physics,56,C,Pass
+108,Sem1,Chemistry,69,C,Pass
+108,Sem2,BEEE,55,C,Pass
+108,Sem2,Civil,74,B,Pass
+108,Sem2,C language,70,B,Pass
+108,Sem3,DSA,88,A,Pass
+108,Sem3,Python,82,B,Pass
+108,Sem3,Deld,63,C,Pass
+109,Sem1,Maths,86,A,Pass
+109,Sem1,Physics,66,C,Pass
+109,Sem1,Chemistry,64,C,Pass
+109,Sem2,BEEE,56,C,Pass
+109,Sem2,Civil,62,C,Pass
+109,Sem2,C language,68,C,Pass
+109,Sem3,DSA,70,B,Pass
+109,Sem3,Python,79,B,Pass
+109,Sem3,Deld,55,C,Pass
+110,Sem1,Maths,68,C,Pass
+110,Sem1,Physics,70,B,Pass
+110,Sem1,Chemistry,74,B,Pass
+110,Sem2,BEEE,68,C,Pass
+110,Sem2,Civil,77,B,Pass
+110,Sem2,C language,71,B,Pass
+110,Sem3,DSA,55,C,Pass
+110,Sem3,Python,79,B,Pass
+110,Sem3,Deld,69,C,Pass
