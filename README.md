@@ -1,3 +1,10 @@
+
+
+
+LINK TO LIVE APP:
+https://huggingface.co/spaces/priyam1407/Student_exam_per
+
+
 # 📊 Student Performance Analysis
 
 This project focuses on analyzing student academic performance across multiple semesters using Python.  
@@ -55,6 +62,7 @@ By
 **Priyam Tiwari**
 AIML
 Rungta College of Engineering and Technology
+
 
 
 
